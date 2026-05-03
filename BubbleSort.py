@@ -2,7 +2,7 @@
 #Nim : 301250022
 #Nama Pembuat : Gilang Septian Cahya Saputra
 #Tanggal pembuatan : 02 Mei 2026
-#Nama file : 301250022_GilangSeptianCahyaSaputra_Tugas_Algo2_02-05-2026
+#Nama file : 301250022_GilangSeptianCahyaSaputra_Tugas6_Algo2_02-05-2026
 
 import os
 
